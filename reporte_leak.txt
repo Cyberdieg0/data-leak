@@ -1,0 +1,21 @@
+=========
+📅 Fecha y hora actual: 06-07-2025 16:40:28📁 Carpeta analizada: /home/diego/Escritorio
+🔐 Resultado de analisis de posibles filtraciones de datos
+
+📄 Archivo: /home/diego/Escritorio/recordatorios.txt
+   → Linea 3: contiene 'admin'
+
+=========
+📅 Fecha y hora actual: 06-07-2025 16:40:39📁 Carpeta analizada: /home/diego/Documentos
+🔐 Resultado de analisis de posibles filtraciones de datos
+
+📄 Archivo: /home/diego/Documentos/Acesso.txt
+   → Linea 1: contiene 'password'
+
+=========
+📅 Fecha y hora actual: 06-07-2025 16:41:22
+📁 Carpeta analizada: /home/diego/Escritorio
+🔐 Resultado de analisis de posibles filtraciones de datos
+
+📄 Archivo: /home/diego/Escritorio/recordatorios.txt
+   → Linea 3: contiene 'admin'
